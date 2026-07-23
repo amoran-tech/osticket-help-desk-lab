@@ -3,7 +3,7 @@ Deployment and configuration of an osTicket help desk environment for practicing
 osTicket Help Desk Lab
 Project Overview
 
-This project documents the deployment and configuration of an osTicket help desk environment. I created the lab to gain hands-on experience with ticket management, end-user support, troubleshooting documentation, ticket escalation, and common help desk workflows.
+This project documents the deployment and configuration of an osTicket help desk environment. I created the lab to gain hands-on experience with ticket management, end user support, troubleshooting documentation, ticket escalation, and common help desk workflows.
 
 The environment simulates an organization in which employees submit technical support requests that are assigned, prioritized, documented, escalated, and resolved by help desk agents.
 
@@ -14,19 +14,19 @@ Apache
 MySQL
 PHP
 Windows 10/11
-Web-based administration and end-user portals
+Web based administration and end user portals
 Skills Demonstrated
 Help desk ticket management
 Tier 1 technical support
 Ticket assignment and escalation
-Service-level agreement configuration
+Service level agreement configuration
 End-user account administration
 Technical documentation
 Linux file and directory permissions
 Web-server configuration
 Database configuration
 Hardware and software troubleshooting
-Customer-focused communication
+Customer focused communication
 Lab Configuration
 
 During this project, I configured:
@@ -38,13 +38,13 @@ Registered end users
 Guest users
 Help topics
 Ticket priorities
-Service-level agreements
+Service level agreements
 Ticket assignment and routing
 Internal notes
 Ticket status and resolution workflows
 Ticket Lifecycle
 
-The lab was designed to simulate the complete support-ticket lifecycle:
+The lab was designed to simulate the complete support ticket lifecycle:
 
 An end user submits a technical support request.
 The ticket is categorized by help topic and priority.
@@ -69,7 +69,7 @@ Installation and Troubleshooting
 
 During deployment, I worked through issues involving:
 
-Apache web-server configuration
+Apache web server configuration
 MySQL database connectivity
 PHP configuration
 Linux file permissions
@@ -84,9 +84,9 @@ The screenshots demonstrate:
 
 osTicket administrator dashboard
 Department and team configuration
-Agent and end-user configuration
+Agent and end user configuration
 Help topics
-Service-level agreements
+Service level agreements
 Ticket creation
 Ticket assignment
 Internal troubleshooting notes
